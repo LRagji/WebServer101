@@ -1,0 +1,4 @@
+WebServer101	KEYWORD2
+ProcessRequest	KEYWORD2
+GenerateHeader	KEYWORD2
+GenerateReponseStatusLine	KEYWORD2
